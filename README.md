@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World, I'm Shankar</h1>
 
 <p align="center">
- 🌍 India | 🚀 Polyglot Developer
+ 🌍 India | 🚀 Polyglot Developer | 🤖 AI Solutions
 </p>
 
 <p>
