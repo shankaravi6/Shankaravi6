@@ -36,43 +36,15 @@
 <h2>🚀 Current Projects</h2>
 
 <ul>
-<li>
-<b>🧠 Omni CRM</b><br/>
-AI-driven CRM platform for automation and intelligent workflows.<br/>
-🔗 <a href="https://omnicrmui.vercel.app/" target="_blank">Live Demo</a>
-</li>
+  <li>🧠 <b>Omni CRM</b> – AI-driven CRM platform for automation and intelligent workflows. 🔗 <a href="https://omnicrmui.vercel.app/" target="_blank">Live Demo</a></li>
 
-<br/>
+  <li>🧊 <b>Hydra Glassium</b> – Modern Glassmorphism UI Component Library. 🔗 <a href="https://hydra-glassium.vercel.app/" target="_blank">Live Demo</a></li>
 
-<li>
-<b>🧊 Hydra Glassium</b><br/>
-Modern Glassmorphism UI Component Library.<br/>
-🔗 <a href="https://hydra-glassium.vercel.app/" target="_blank">Live Demo</a>
-</li>
+  <li>🧬 <b>Rebirth</b> – AI Voice & Personality Cloning Platform. 🔗 <a href="https://rebirth-ai.vercel.app/" target="_blank">Live Demo</a></li>
 
-<br/>
+  <li>📣 <b>InfluConnect</b> – Connect with verified influencers for marketing campaigns. 🔗 <a href="https://influenz-ui.netlify.app/" target="_blank">Live Demo</a></li>
 
-<li>
-<b>🧬 Rebirth</b><br/>
-AI Voice & Personality Cloning Platform.<br/>
-🔗 <a href="https://rebirth-ai.vercel.app/" target="_blank">Live Demo</a>
-</li>
-
-<br/>
-
-<li>
-<b>📣 InfluConnect</b><br/>
-Connect with verified influencers for marketing campaigns.<br/>
-🔗 <a href="https://influenz-ui.netlify.app/" target="_blank">Live Demo</a>
-</li>
-
-<br/>
-
-<li>
-<b>🚀 Refine</b><br/>
-Space news and articles discovery platform.<br/>
-🔗 <a href="https://refine-web.netlify.app/" target="_blank">Live Demo</a>
-</li>
+  <li>🚀 <b>Refine</b> – Space news and articles discovery platform. 🔗 <a href="https://refine-web.netlify.app/" target="_blank">Live Demo</a></li>
 </ul>
 
 ---
