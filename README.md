@@ -24,7 +24,7 @@ Hello there... I'm Shankar
 
 <br/>
 
-<img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-bb8-clipart-cartoon-star-wars-bb-vector-png-image_6800393.png" width="135" />
+<img src="image.jpg" width="135" />
 
 <br/>
 
