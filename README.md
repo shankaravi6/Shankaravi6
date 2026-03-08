@@ -36,6 +36,10 @@ Hello there... I'm Shankar
 <br/>
 
 <!-- Other Projects Horizontal -->
+<a href="https://vocabflow-ai.vercel.app/">
+<img src="https://img.shields.io/badge/VocabFlowAI-244f79?style=for-the-badge&logo=starwars&logoColor=white">
+</a>
+
 <a href="https://omnicrmui.vercel.app/">
 <img src="https://img.shields.io/badge/Omni_CRM-244f79?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
