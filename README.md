@@ -24,7 +24,7 @@ Hello there... I'm Shankar
 
 <br/>
 
-<img src="image.jpg" width="135" />
+<img src="image.png" width="135" />
 
 <br/>
 
