@@ -29,8 +29,8 @@ Hello there... I'm Shankar
 <br/>
 
 <!-- Open Roger Alone -->
-<a href="https://rebirth.vercel.app/">
-<img src="https://img.shields.io/badge/Open_Roger-FF2D2D?style=for-the-badge&logo=starwars&logoColor=white">
+<a href="https://rebirth-ai.vercel.app/">
+<img src="https://img.shields.io/badge/Rebirth-FF2D2D?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
 
 <br/>
@@ -49,7 +49,7 @@ Hello there... I'm Shankar
 </a>
 
 <a href="https://open-roger.vercel.app/">
-<img src="https://img.shields.io/badge/Rebirth-244f79?style=for-the-badge&logo=starwars&logoColor=white">
+<img src="https://img.shields.io/badge/Open_Roger-244f79?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
 
 <a href="https://influenz-ui.netlify.app/">
