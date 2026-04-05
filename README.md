@@ -29,7 +29,7 @@ Hello there... I'm Shankar
 <br/>
 
 <!-- Open Roger Alone -->
-<a href="https://rebirth-ai.vercel.app/">
+<a target="_blank" href="https://rebirth-ai.vercel.app/">
 <img src="https://img.shields.io/badge/Rebirth-FF2D2D?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
 
