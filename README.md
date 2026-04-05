@@ -24,12 +24,12 @@ Hello there... I'm Shankar
 
 <br/>
 
-<img src="image.png" width="135" />
+<img src="logo.png" width="135" />
 
 <br/>
 
-<!-- Open Roger Alone -->
-<a target="_blank" href="https://rebirth-ai.vercel.app/">
+<!-- Rebirth Alone -->
+<a href="https://rebirth-ai.vercel.app/">
 <img src="https://img.shields.io/badge/Rebirth-FF2D2D?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
 
