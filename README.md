@@ -52,8 +52,8 @@ Hello there... I'm Shankar
 <img src="https://img.shields.io/badge/Open_Roger-244f79?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
 
-<a href="https://influenz-ui.netlify.app/">
-<img src="https://img.shields.io/badge/InfluConnect-244f79?style=for-the-badge&logo=starwars&logoColor=white">
+<a href="https://influenz-next.vercel.app/">
+<img src="https://img.shields.io/badge/Influenz-244f79?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
 
 <a href="https://refine-web.vercel.app/">
